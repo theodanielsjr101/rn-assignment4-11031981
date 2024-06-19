@@ -15,6 +15,8 @@ V) Styled UI: Application styled to match the provided Figma design closely.
 ![app screenshot 2](https://github.com/theodanielsjr101/rn-assignment4-11031981/assets/150858757/0857d808-237a-4ce4-8137-7e3acfc17828)
 ![app screenshot 3](https://github.com/theodanielsjr101/rn-assignment4-11031981/assets/150858757/2bafe937-658b-4b33-bb5f-6c5d0e806a30)
 ![app screenshot 4](https://github.com/theodanielsjr101/rn-assignment4-11031981/assets/150858757/ec0d76ff-9304-4a50-b865-565e1d0bec56)
+![app screenshot 5](https://github.com/theodanielsjr101/rn-assignment4-11031981/assets/150858757/01e21e3a-d72f-464c-b546-ef8e6902c487)
+![app screenshot 6](https://github.com/theodanielsjr101/rn-assignment4-11031981/assets/150858757/6bc45e90-b985-45e6-9850-3455bfdd1da9)
 
 
 
